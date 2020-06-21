@@ -6,8 +6,6 @@ MK Decision
 - [Project Description](#project-description)
 - [Project Requirments](#project-requirments)
 - [File Structure](#file-structure)
-- [Built With](#built-with)
-- [Instructions to Run (Development)](#instructions-to-run)
 
 ## Project Description
 
@@ -28,13 +26,3 @@ provided in the form, with the name as the email subject.
 ## File Structure
 1) **Backend-Lambda**: Back end directory and files for AWS Lambda Function (Python)
 2) **Frontend-ReactJs**: Front end directory (Javascript)
-
-## Built With
-
-- [Python](https://python.org) - Programming Language
-- [AWS-Lambda](https://aws.amazon.com/lambda/) - Event-driven, Serverless computing platform
-- [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) - Boto is the Amazon Web Services
-- [Simple-Email-Service](https://aws.amazon.com/ses/) - Cloud-Based Email Sending Service
-- [VS Code](https://code.visualstudio.com) - Code Editor
-
-
