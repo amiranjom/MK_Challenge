@@ -20,7 +20,7 @@ provided in the form, with the name as the email subject.
 ## File Structure
 
 - **src**: source folder and the root of the application
-- **build**: index.html is located, for deployment
+- **build**: index.html is located, for deployment (First Need to be Created with `npm run build`)
 
 ## Built With
 

@@ -83,6 +83,7 @@ const HomePageForm = () => {
           alert(
             `An Email has been sent to ${email} \nThe subject: "${name}"\n Message body: ${message}`
           );
+          window.location.reload(true)
         })
         .catch((e) => {
           alert('Error has occured please refresh the page and try again!');
