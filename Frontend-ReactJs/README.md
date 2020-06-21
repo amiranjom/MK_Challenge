@@ -40,12 +40,12 @@ provided in the form, with the name as the email subject.
 
 #### Package Installing:
 
-Run `npm install` in "frontend-react" directory
+Run `npm install` in "Frontend-ReactJs" directory
 
 #### Running Locally:
 
-Run `npm start` in "frontend-react" directory
+Run `npm start` in "Frontend-ReactJs" directory
 
 #### Building the Build for Production:
 
-Run `npm run build` in "frontend-react" directory
+Run `npm run build` in "Frontend-ReactJs" directory
