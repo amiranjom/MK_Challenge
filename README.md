@@ -1,11 +1,6 @@
 # From Challenge Main Directory
-
-A lambda function hosted on AWS, the function is an **Api Gateway**, which activates upon 
-the call and would save the incoming data into dynamodb database. It also uses Simple Email Service 
-provided by AWS to send email.
-
-[Api EndPoint / POST](https://4d4nlf2g7k.execute-api.us-east-2.amazonaws.com/test/form)
-
+**Software Engineer Interview Challenge**
+MK Decision
 ## Table of contents
 
 - [Project Description](#project-description)
